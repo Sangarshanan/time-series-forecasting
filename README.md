@@ -6,4 +6,4 @@ Time series forecasting is very useful for businesses in sales prediction and ot
 
 Article 1 : https://medium.com/@sangarshananveera/time-series-forecasting-part-1-d523bcc3acbf
 
-Article 2:  https://towardsdatascience.com/time-series-forecasting-arima-models-7f221e9eee06
+Article 2: https://towardsdatascience.com/time-series-forecasting-arima-models-7f221e9eee06
